@@ -5,8 +5,10 @@ import datetime
 from tkinter.font import Font
 from webbrowser import open_new_tab
 
+#
 #Semplice recorder di attività che mantiene un diario di tutte le attività eseguite e inviate al file
 #Il file viene in salvato in /home/user/SimpleActivityDiary/
+#
 
 class HistoryView ():
     def __init__(self,upperLevel):

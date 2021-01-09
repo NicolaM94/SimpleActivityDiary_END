@@ -8,7 +8,7 @@ Il programma salva quanto inserito e da la possibilità di consultare la cronolo
 
 Il programma si basa sul salvataggio in locale del testo inserito, non è quindi necessaria alcuna connessione ad internet,
 ed è stato pensato per fornire un semplice manager senza tanti fronzoli, che sia semplice da usare e che si adatti ad ogni scopo.
-Il programma è interamente scritto in 80 linee di codice Python, compilato e scaricabile qui su GitHub: basta scaricare il progetto,
+Il programma è interamente scritto in 100 linee di codice Python, compilato e scaricabile qui su GitHub: basta scaricare il progetto,
 estrarre la cartella in C:\Programmi (o dove volete, in realtà) e creare un link di `Simple_Activity_Diary.exe` al Desktop.
 
 Il programma viene distribuito su licenza GNU, aperto a modifiche e utilizzi di ogni genere.
@@ -26,7 +26,7 @@ The program saves what's typed in and gives the chance to read the history of wh
 3. Activity inserted
 
 The program is based on the local save of the inserted text, therefore any internet connection is necessary, and has been thought to supply a simple and "straight to the point" manager, being simple and adaptable to any goal.
-The program is entirely written in 80 lines of Python code, compiled and donwloadable here from GitHub: just download,
+The program is entirely written in 100 lines of Python code, compiled and donwloadable here from GitHub: just download,
 extract the folder to C:/Programs (or wherever you want, really) and create a link of the exceutable `Simple_Activity_Diary.exe` to the Desktop.
 
 The program is distributed under GNU licence, open and free to any modification and usage of any type.
