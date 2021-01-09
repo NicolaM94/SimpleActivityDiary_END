@@ -9,7 +9,7 @@ Il programma salva quanto inserito e da la possibilità di consultare la cronolo
 Il programma si basa sul salvataggio in locale del testo inserito, non è quindi necessaria alcuna connessione ad internet.
 Il programma è stato pensato per fornire un semplice manager senza tanti fronzoli, che sia semplice da usare e adatto allo scopo.
 Il programma è interamente scritto in 80 linee di codice Python, compilato e scaricabile qui su GitHub: basta scaricare il progetto,
-estrarre la cartella in C:\Programmi (o dove volete, in realtà) e creare un link al Desktop.
+estrarre la cartella in C:\Programmi (o dove volete, in realtà) e creare un link di `Simple_Activity_Diary.exe` al Desktop.
 
 Il programma viene distribuito su licenza GNU, aperto a modifiche e utilizzi di ogni genere.
 
