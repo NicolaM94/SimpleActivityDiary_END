@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['main.py'],
-             pathex=['C:\\Users\\Nicola\\Desktop\\PyProgets\\ActivityManager'],
+             pathex=['C:\\Users\\Nicola\\Desktop\\PyProgets\\SimpleActivityDiary'],
              binaries=[],
              datas=[],
              hiddenimports=[],
@@ -21,7 +21,7 @@ exe = EXE(pyz,
           a.scripts,
           [],
           exclude_binaries=True,
-          name='Simple_Activity_Diary',
+          name='SimpleActivityDiary',
           debug=False,
           bootloader_ignore_signals=False,
           strip=False,
@@ -34,4 +34,4 @@ coll = COLLECT(exe,
                strip=False,
                upx=True,
                upx_exclude=[],
-               name='Simple_Activity_Diary')
+               name='SimpleActivityDiary')

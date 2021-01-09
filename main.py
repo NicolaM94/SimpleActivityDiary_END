@@ -20,6 +20,8 @@ class HistoryView ():
                 shower = tk.Text(upperLevel)
                 for line in reader:
                     shower.insert(tk.INSERT,str(line))
+                    stringa = "-"*144 + "\n"
+                    shower.insert(tk.END,stringa)
                 shower.pack(pady=15,padx=15)
                 shower.configure(state=tk.DISABLED,font=Font(family="Helvetica",size=12))
         except FileNotFoundError:
