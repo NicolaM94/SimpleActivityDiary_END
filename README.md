@@ -28,7 +28,7 @@ The program saves what's typed in and gives the chance to read the history of wh
 The program is based on the local save of the inserted text, therefore any internet connection is necessary.
 The program has bee thought to supply a simple "straight to the point" manager, being simple and adapt to the goal.
 The program is entirely written in 80 lines of Python code, compiled and donwloadable here from GitHub: just download,
-extract the folder to C:/Programs (or wherever you want, really) and create a link to the Desktop.
+extract the folder to C:/Programs (or wherever you want, really) and create a link of the exceutable `Simple_Activity_Diary.exe` to the Desktop.
 
 The program is distributed under GNU licence, open and free to any modification and usage of any type.
 
