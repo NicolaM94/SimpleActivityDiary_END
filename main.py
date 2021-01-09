@@ -79,7 +79,7 @@ class MainView ():
             engineTwo.mainloop()
         
         def creditsOpener():
-            open_new_tab("https://github.com/NicolaM94/Simple-Activity-Diary")
+            open_new_tab("https://github.com/NicolaM94/SimpleActivityDiary")
 
 
         tk.Label(text="Inserisci la tua attività qui sotto: ").pack()
