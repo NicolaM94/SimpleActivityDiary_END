@@ -1,3 +1,5 @@
+![Capture](http://url/to/img.png)
+
 # SimpleActivityDiary
 
 Un semplice programma per annotare la propria attività giornaliera.
