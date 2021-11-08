@@ -1,4 +1,4 @@
-![Capture](http://url/to/img.png)
+![Capture](https://github.com/NicolaM94/SimpleActivityDiary_END/blob/main/dist/SimpleActivityDiary/Cattura%20mia.JPG)
 
 # SimpleActivityDiary
 
